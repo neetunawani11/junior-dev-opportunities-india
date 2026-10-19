@@ -29,12 +29,14 @@ When a listing does not mention graduation year, record "Not specified" rather t
 
 Do not assume career gaps are accepted unless the employer explicitly confirms this. Applicants should check the complete eligibility requirements.
 
+
 ## Opportunities
 
-No opportunities have been verified yet. We will add entries after checking their official listings.
+Review each official listing for complete eligibility requirements and current availability.
 
 | Company | Role | Location | Experience | Skills | Official listing | Last checked |
 | --- | --- | --- | --- | --- | --- | --- |
+| Allata / IMRIEL | Junior Software Engineer | Vadodara, Gujarat — On-site | 6 months–1 year; graduation year not specified | C#, .NET, REST APIs, Angular/React, TypeScript, SQL, Git | [Official listing](https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001/) | 2026-10-19 |
 
 ## How we check entries
 
