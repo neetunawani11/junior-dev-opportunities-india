@@ -13,6 +13,22 @@ Finding suitable entry-level developer roles takes time. This project brings cle
 - Opportunities with a publicly accessible official job listing.
 - Remote roles whose official listing explicitly allows applicants in India.
 
+## What we include
+
+- On-site or hybrid internships and junior developer roles in India.
+- Junior roles requiring 0–2 years of professional experience.
+- Internships that accept graduates, not only currently enrolled students.
+- Listings without an explicit graduation-year or recent-graduate restriction.
+- Opportunities with a publicly accessible official job listing.
+
+## Graduation year and career gaps
+
+This directory is not limited to recent graduates. We prioritise opportunities without a stated graduation-batch restriction.
+
+When a listing does not mention graduation year, record "Not specified" rather than "All batches eligible".
+
+Do not assume career gaps are accepted unless the employer explicitly confirms this. Applicants should check the complete eligibility requirements.
+
 ## Opportunities
 
 No opportunities have been verified yet. We will add entries after checking their official listings.
