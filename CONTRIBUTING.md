@@ -31,6 +31,8 @@ Keep entries alphabetical by company name. Use the role title to order multiple 
 
 Write short factual summaries rather than copying full job descriptions. Do not include personal information about applicants or recruiters.
 
+Check graduation-year requirements separately from work experience. Exclude student-only internships and listings restricted to specific graduation batches or recent graduates. If graduation year or career-gap eligibility is not stated, record "Not specified"; do not infer acceptance.
+
 ## Updating or removing an opportunity
 
 Explain what changed and include the official source.
