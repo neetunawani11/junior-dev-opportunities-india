@@ -1,0 +1,32 @@
+[
+  {
+    "id": "allata-junior-software-engineer-a0eb9210",
+    "company": "Allata / IMRIEL",
+    "title": "Junior Software Engineer",
+    "location": {
+      "city": "Vadodara",
+      "state": "Gujarat",
+      "country": "India"
+    },
+    "work_mode": "onsite",
+    "employment_type": "full_time",
+    "experience_months": {
+      "min": 6,
+      "max": 12
+    },
+    "graduation_year_requirement": null,
+    "skills": [
+      "C#",
+      ".NET",
+      "REST APIs",
+      "Angular",
+      "React",
+      "TypeScript",
+      "SQL",
+      "Git"
+    ],
+    "source_url": "https://jobs.lever.co/Allata/a0eb9210-f90b-4a71-9107-765fb4848001/",
+    "last_checked": "2026-10-19",
+    "fee_policy": "not_specified"
+  }
+]
