@@ -3,7 +3,7 @@
 A community-maintained directory of junior developer opportunities in India, with official application links and last-checked dates.
 
 ## Why this project exists
-
+ 
 Finding suitable entry-level developer roles takes time. This project brings clearly sourced opportunities into one place so applicants can check requirements and visit the official application page.
 
 ## What we include
